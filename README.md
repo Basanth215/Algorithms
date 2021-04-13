@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Basanth215
+- 👋 Hi, I’m Basanth
 - 👀 I’m interested in 
   - Java Developer role
   - Full Stack developer
