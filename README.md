@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
   - Java Developer role
   - Full Stack developer
-- 🌱 I’m currently learning 
+- 🌱 I’m a continuous learner and currently learning :
   - Data Structures
   - Algorithms using Java
   - Java 11
