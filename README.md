@@ -4,12 +4,12 @@
   - ✔️ Data structures
   - ✔️ Problems and solutions and their difficulty levels are from easy to Hard 
 - 🧐 How to run a Program
-  - Open Java file and compile and run main method 
+  - ▶️ Open Java file and compile and run main method 
 - 🌱 I’m a continuous learner and currently learning :
-  - Data Structures
-  - Algorithms using Java
-  - Java 11
-  - UI Technologies
+  - 🔥 Data Structures
+  - 🔥 Algorithms using Java
+  - 🔥 Java 11
+  - 🔥 UI Technologies
 - 📫 How to reach me 
   - 💬 email id # 1. *basanth.ies@gmail.com*
   - 📧 email id # 2. *basanth.yarragutnla@gmail.com*
