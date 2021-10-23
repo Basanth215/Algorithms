@@ -1,19 +1,27 @@
-- 👋 Hi, I’m Basanth
-- 👀 I’m interested in 
-  - Java Developer role
-  - Full Stack developer
+# 👋 Hi There, I’m Basanth
+- 👀 I’ll use this repository to write
+  - ✔️ Algorithms
+  - ✔️ Data structures
+  - ✔️ Problems and solutions and their difficulty levels are from easy to Hard 
+- 🧐 How to run a Program
+  - Open Java file and compile and run main method 
 - 🌱 I’m a continuous learner and currently learning :
   - Data Structures
   - Algorithms using Java
   - Java 11
   - UI Technologies
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-  basanth.ies@gmail.com OR
-  basanth.yarragutnla@gmail.com
-  Mobile: +91 9492525936
-
+  - 💬 email id # 1. *basanth.ies@gmail.com*
+  - 📧 email id # 2. *basanth.yarragutnla@gmail.com*
+  - 📱 Mobile: *+91* *9492525936*
+- 😅 Happy Understanding !!!
 <!---
-Basanth215/Basanth215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 --->
