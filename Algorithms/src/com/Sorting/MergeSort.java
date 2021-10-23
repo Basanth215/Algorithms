@@ -1,4 +1,4 @@
-package com.Sorting;
+package com.sorting;
 
 /* Java program for Merge Sort */
 class MergeSort
