@@ -10,6 +10,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   basanth.ies@gmail.com
+  basanth.yarragutnla@gmail.com
   Mobile: +91 9492525936
 
 <!---
