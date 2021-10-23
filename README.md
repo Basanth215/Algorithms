@@ -9,7 +9,7 @@
   - UI Technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-  basanth.ies@gmail.com
+  basanth.ies@gmail.com OR
   basanth.yarragutnla@gmail.com
   Mobile: +91 9492525936
 
