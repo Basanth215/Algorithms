@@ -7,20 +7,17 @@ import java.util.List;
 public class ArmStrong {
     public static void main(String...main){
         List<Integer> l = Arrays.asList(3, 12, 86, 341);
-        List<String> s = armstrongNumber(l);
+        System.out.println(armstrongNumber(l));
     }
     public static List<String> armstrongNumber(List<Integer> arr) {
-        // Write your code here
         List<String> s = new ArrayList<>();
-        for(int i=0;i<arr.size();i++){
-            System.out.println(power(arr.get(i)));
-            if(power(arr.get(i))==arr.get(i)){
-                s.add("Armstrong number");
-            } else
-            {
-                s.add("Not Armstrong number");
-            }
-        }
+        arr.forEach(sa->{
+                if(power(sa)==sa) {
+                    s.add("Armstrong number");
+                }else {
+                    s.add("Not armstrong");
+                }
+        });
         return s;
     }
 
