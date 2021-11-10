@@ -50,7 +50,7 @@ public class BeautifulDaysAtTheMovies {
 
     public static void main(String[] args) {
 
-        String[] firstMultipleInput = {"20", "23", "6"};
+        String[] firstMultipleInput = {"201", "233", "6"};
 
         int i = Integer.parseInt(firstMultipleInput[0]);
 
@@ -66,20 +66,24 @@ public class BeautifulDaysAtTheMovies {
     private static int beautifulDays(int i, int j, int k) {
         int count = 0;
         for (int l = i; l <= j ; l++) {
+            System.out.println(l+"  "+findReverse(l));
             if((l-findReverse(l))%k==0){
+
                 count++;
             }
         }
         return count;
     }
+    private static int findReverse(int num) {
 
-    private static int findReverse(int l) {
-        int reverseNumber = 0;
-        while(l!=0){
-            reverseNumber = (reverseNumber*10)+(l%10);
-            l = l/10;
+        if(num<10){
+            return num;
         }
-        return reverseNumber;
+        int val = findReverse(num / 10);
+        int onesDigit = num%10;
+        int noOfDigitsNumHas = String.valueOf(num).length();
+        int multiplyWith = (int) Math.pow(10, noOfDigitsNumHas-1);
+        return val + (onesDigit * multiplyWith);
     }
 
 }
