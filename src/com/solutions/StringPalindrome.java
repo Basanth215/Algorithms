@@ -1,5 +1,12 @@
 package com.solutions;
 
+/*
+Find palindrome string with given length N and number of characters of K.
+
+Example: Input N=5, K=2 the o/p: ababa
+
+ */
+
 class StringPalindrome {
     public static void main(String...args){
         StringPalindrome sol = new StringPalindrome();
