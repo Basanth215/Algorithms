@@ -3,7 +3,7 @@ package com.solutions;
 import java.util.Locale;
 import java.util.stream.IntStream;
 /*
-Problem statement in HackerRankProblemStatements folder with file name Pangrams.pdf
+Problem statement is in HackerRankProblemStatements folder with file name Pangrams.pdf
  */
 public class Pangrams {
     public static void main(String...args) {
