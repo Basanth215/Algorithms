@@ -3,7 +3,9 @@ package com.solutions;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.IntStream;
-
+/*
+    Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+ */
 public class DiagonalDifference {
     public static void main(String...args){
         List<List<Integer>> list =
