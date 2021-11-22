@@ -40,7 +40,7 @@ Lily may go to the movies on days , , , and . We perform the following calculati
 
 Day 20 is beautiful because the following evaluates to a whole number: (20-2)/6=18/6=3
 Day 21 is not beautiful because the following doesn't evaluate to a whole number: (21-12)/6 = 9/6 = 1.5
-Day 22 is beautiful because the following evaluates to a whole number: (22-22)/6 = 0/6 = 0
+Day 22 is beautiful because the following evaluates to a whole number: (22-22)/6 = 0/6 = 0.
 Day 23 is not beautiful because the following doesn't evaluate to a whole number: (23-32)/6 = 9/6 = 1.5
 Only two days,  and , in this interval are beautiful. Thus, we print  as our answer.
 *

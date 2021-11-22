@@ -29,7 +29,7 @@ Example 3:
 
 Input: s = "aabaa", cost = [1,2,3,4,1]
 Output: 2
-Explanation: Delete the first and the last character, getting the string ("aba").
+Explanation: Delete the first and the last character, getting the string ("aba")
 
 
  */
